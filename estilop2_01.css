@@ -1,0 +1,20 @@
+.header {
+    background-color: #FC2309;
+    height: 50px;
+    width: 50px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: green;
+    padding-top: 100px;
+    ;
+}
+
+.container {
+    background-color: #000;
+    height: 50vh;
+    width: 50%;
+    border-color: #FC2309;
+    border-width: 10px;
+    border-style: dashed;
+    padding-left: 100px;
+}

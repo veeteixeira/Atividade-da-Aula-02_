@@ -1,0 +1,22 @@
+.header {
+    background-color: rgb(193, 156, 228);
+    height: 250px;
+    width: 50%;
+    display: flex;
+    justify-items: center;
+}
+
+.container {
+    background-color: #ffcbdb;
+    width: 250px;
+    height: 100%;
+    border-color: #FC2309;
+    border-width: 20px;
+    border-style: dotted;
+}
+
+.header .sub {
+    background-color: #7fffd4;
+    height: 88%;
+    width: 30%;
+}

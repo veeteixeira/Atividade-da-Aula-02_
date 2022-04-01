@@ -1,0 +1,36 @@
+body {
+    background-color: #d3d3d3;
+}
+
+.header {
+    background-color: #ffffff;
+    height: 500px;
+    width: 50vh;
+    border-color: #000000;
+    border-width: 10px;
+    border-style: dotted;
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+}
+
+.container {
+    background-color: #ffff00;
+    height: 50px;
+    width: 30%;
+}
+
+.sub {
+    background-color: rgb(255, 91, 31);
+    height: 100px;
+    width: 30%;
+}
+
+.ultima {
+    background-color: rgb(22, 209, 22);
+    color: #ffffff;
+    font-size: 30px;
+    padding: 5px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
